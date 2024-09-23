@@ -9,6 +9,8 @@ bcrypt==3.2.0
 cryptography==3.4.8
 pyOpenSSL==21.0.0
 PyJWT==2.3.0
+PyYAML==6.0
+
 
 # پکیج‌های شبکه و درخواست HTTP
 requests==2.25.1
