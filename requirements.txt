@@ -19,7 +19,6 @@ httplib2==0.20.2
 oauthlib==3.2.0
 chardet==4.0.0
 idna==2.10
-websocket-client==1.2.3
 
 # پکیج‌های توسعه و رفع وابستگی‌ها
 click==8.0.3
